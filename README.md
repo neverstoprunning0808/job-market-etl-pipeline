@@ -493,7 +493,7 @@ records both the error message and stack trace.
 
 ---
 
-# 16. Final Pipeline Architecture
+# 14. Final Pipeline Architecture
 
 The final architecture is:
 
